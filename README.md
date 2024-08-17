@@ -7,7 +7,6 @@
 ![app](https://github.com/user-attachments/assets/8117a164-e45b-4c6d-aa60-403a12975421)
 ![edit](https://github.com/user-attachments/assets/e0b15a83-750f-4cf0-bd93-d340f0a19f04)
 ![home](https://github.com/user-attachments/assets/a9bedeb4-9f1b-4b17-a336-e78c6ad62e2a)
-![profile](https://
 ![slide](https://github.com/user-attachments/assets/d3308405-ef66-45f1-8103-2acf246167de)
 
 ![reg](https://github.com/user-attachments/assets/c86412e3-fd43-42f2-85d9-8492b3f0d25d)
